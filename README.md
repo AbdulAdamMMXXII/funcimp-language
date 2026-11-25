@@ -16,5 +16,5 @@ This repository contains:
 ### Status  
 Project setup and initial design phase.  
 
-## Author  
+### Author  
 Abdulrazig Adam MSc Advanced Computer Science University of Birmingham
